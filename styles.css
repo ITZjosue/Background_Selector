@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+#fondo{
+    width: 100%;
+    min-height: 100vh;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    padding: 5px 5px;
+    border-radius: 5px;
+    font-size: 25px;
+    outline: none;
+    background: white;
+    color: green;
+    font-weight: bolder;
+}
